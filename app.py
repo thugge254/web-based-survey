@@ -4,7 +4,7 @@ from db import insert_response
 
 st.set_page_config(page_title="Python Survey")
 
-st.title("🐍 Python Survey")
+st.title("A simple python Survey")
 
 with st.form("survey_form"):
     # Basic info
